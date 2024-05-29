@@ -31,8 +31,10 @@ Let's break down each part in the context of the three stages of cancer recurren
 In the context of oral cancer data analysis, "recurrence" likely refers to whether the cancer has returned after initial treatment. Recurrence is typically classified into different categories to denote the severity or stage of the recurrence. While the specific definitions may vary depending on the dataset or medical protocol, here's a general interpretation:
 
 Recurrence 1: This could indicate the first occurrence of cancer recurrence after the initial treatment. It may suggest that the cancer has returned but is at an early stage or is localized.
+
 Recurrence 2: This might signify a second occurrence of cancer recurrence, indicating that the cancer has returned again after the initial treatment. It could imply a more advanced stage compared to Recurrence 1, 
               potentially involving larger tumors or spreading to nearby tissues.
+              
 Recurrence 3: This could represent a third occurrence of cancer recurrence, indicating a further progression of the disease. Recurrence 3 might suggest that the cancer has become more aggressive or resistant to treatment, 
               potentially involving metastasis to distant organs or multiple sites within the body.
 
