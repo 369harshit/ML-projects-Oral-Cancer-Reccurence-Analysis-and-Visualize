@@ -1,6 +1,9 @@
 # ML-projects-Oral-Cancer-Reccurence-Analysis-and-Visualize
 project based on healthcare domain
 
+------------------------------------------------------------------------------------------------------------------------------------
+Objective: This program effectively loads a cancer recurrence dataset, preprocesses the data, and uses a Random Forest classifier to predict cancer recurrence. The model is tuned using GridSearchCV to find the best parameters. Various visualizations provide insights into the data and model performance, making it easier to interpret the results. The use of feature scaling, hyperparameter tuning, and comprehensive evaluation ensures the model is well-optimized and provides accurate predictions.
+------------------------------------------------------------------------------------------------------------------------------------
 This code performs various tasks related to analyzing oral cancer recurrence data and building predictive models.
 
 Data Loading and Preprocessing:
@@ -25,7 +28,6 @@ Analysis of Recurrence and Mortality Factors:
 Factors related to cancer recurrence (e.g., age, sex, cancer stage) are analyzed using box plots.
 Additional visualizations are provided based on cancer stages if 'Pathologic group Stage' data is available in the dataset.
 The code provides a comprehensive analysis of oral cancer recurrence data, including data preprocessing, visualization, model building, evaluation, and interpretation of results, considering three stages of cancer recurrence.
-
 ----------------------------------------------------------------*******************-----------------------------------------------------------
 
 Let's break down each part in the context of the three stages of cancer recurrence:
