@@ -1,4 +1,5 @@
 # ML-projects-Oral-Cancer-Reccurence-Analysis-and-Visualize
+Disclaimer: we can't upload Dataset here because it is confedential, we are working with Ramaiah Memorial Hospital Dataset.
 project based on healthcare domain
 
 ------------------------------------------------------------------------------------------------------------------------------------
