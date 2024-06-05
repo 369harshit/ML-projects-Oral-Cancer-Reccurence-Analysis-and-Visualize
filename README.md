@@ -44,6 +44,41 @@ Recurrence 2: This could represent a third occurrence of cancer recurrence, indi
               potentially involving metastasis to distant organs or multiple sites within the body.
 
 =>It's essential to note that the exact definitions of recurrence stages can vary across medical institutions or research studies, so it's essential to refer to the specific definitions provided within the dataset or medical literature for precise interpretation.
+---------------------------------------------------------------------------------------------------------------------------------------
+Explaination file::  oral_caner_(1) (1) (1).ipynb
+
+This bar chart shows the relationship between Clinical Tumor size (cT) and Clinical Node involvement (cN) in terms of their counts.
+
+Tumor Sizes (cT)
+T1: The tumor is small, no bigger than(2 cm or less).
+T2: The tumor is bigger than a (more than 2 cm but 4 cm or less).
+T3: The tumor is bigger than a (more than 4 cm).
+Advanced Tumor Sizes
+T4: The tumor has grown into nearby areas and can be split into:
+T4a: The tumor has spread into nearby structures like bones, deep muscles of the tongue, the maxillary sinus, or the skin of the face. This is more advanced .
+T4b: The tumor has spread even further into more critical areas like the spaces around the jaw muscles, the skull base, or it has wrapped around the internal carotid artery. This is very advanced and extensive.
+
+Clinical Node Involvement (cN)
+N0: No spread to nearby lymph nodes. Think of it as no weeds spreading to other parts of the body.
+N1 to N3 - Increasing Spread:
+N1: The cancer has spread to one nearby lymph node, and it's small (3 cm or less).
+N2 - More Spread, but Still Manageable:
+N2: The cancer has spread more than N1, and it can be:
+N2a: One larger nearby lymph node, bigger than 3cm but no larger than 6cm or less. 
+N2b: Several nearby lymph nodes affected, but none are bigger than 6cm.
+N2c: Cancer has spread to lymph nodes on both sides or the opposite side of the body, but all are still no larger than a 6 cm.
+N3 - Extensive Spread:
+N3: The cancer has spread to one or more lymph nodes and at least one is larger than a more than 6 cm.
+
+Key Points:
+X-axis (Horizontal): Represents the Clinical Tumor size (cT) which ranges from 0 to 4.
+Y-axis (Vertical): Represents the count (number of cases) for each combination of cT and cN.
+Colors: Represent different levels of Clinical Node involvement (cN) from 0 to 6.
+
+Summary:
+The chart shows that smaller tumor sizes (0, 1, and 2) have higher counts and more variation in node involvement, while tumor sizes (3 and 4) have fewer cases but still show some node involvement. And larger tumor size (5 & 6) have very few cases still have some less variation in node involvement.                                   
+
+
 
 
 
